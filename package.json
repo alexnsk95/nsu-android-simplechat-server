@@ -2,7 +2,7 @@
   "name": "test-simplechat",
   "version": "0.0.1",
   "description": "test application",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/alexnsk95/nsu-android-simplechat-server.git"
